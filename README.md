@@ -1,6 +1,6 @@
 # CloudFinalProject
 
-##Final Submission Repo for CSE5333 Cloud Computing
+## Final Submission Repo for CSE5333 Cloud Computing
 
 UTA Marketplace
 
