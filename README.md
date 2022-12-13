@@ -6,6 +6,6 @@ UTA Marketplace
 
 Removed the configs and seperated the data from code
 
-Vaishali Vanjari
-Bhupesh Patil
-Hemanth
+#### Vaishali Vanjari
+#### Bhupesh Patil
+#### Hemanth
